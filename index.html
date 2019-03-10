@@ -2,12 +2,13 @@
 <html>
   <head>
     <title>Web Dev</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
   </head>
   <body>
     <h1>Web Dev Blog</h1>
 
     <h2>Post one:</h2>
-    <p>
+    <p class="main">
       <strong>I am bold</strong> Lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor.
       <em>I look italized right?</em>Aenean massa. Cum sociis natoque penatibus
@@ -19,11 +20,11 @@
       >
       imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis
       pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
-      Aenean vulputate eleifend tellus.
+      <span>Aenean vulputate eleifend tellus</span>.
     </p>
 
     <h2>Post two:</h2>
-    <p>
+    <p class="main">
       <strong>Sed ut perspiciatis</strong><br />
       unde omnis iste natus error sit voluptatem accusantium doloremque<br />
       <em>laudantium</em>, totam rem aperiam, eaque ipsa quae ab illo inventore
@@ -34,7 +35,8 @@
       nesciunt.
     </p>
 
-    <p><img src="./img/author.jpg" alt="author photo" /> Kenzi Green.</p>
+    <img src="./img/author.jpg" alt="author photo" />
+    <p id="author-name">Kenzi Green.</p>
   </body>
 </html>
 

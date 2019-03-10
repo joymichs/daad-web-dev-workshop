@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} /*.*/
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  color: #444;
+  font-size: 40px;
+  margin-bottom: 20px; /*.*/
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+h2,
+p {
+  color: #888;
+}
+
+.main {
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+.main span {
+  color: burlywood;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+#author-name {
+  font-size: 20px;
+}
+
+/*
+- selector declaration block
+- elements gets font-size and font-family via inheritance
+- In css, colors are displayed combining the Red Green and Blue lights - is the the RGB Model
+- classes and ids:
+  An id can be used only once inside each element document
+  A class can be use many times in an html document
+- By default, all browsers set default margins.. 
+*/
+
+/* Layout.css */
+
+.container {
+  width: 1140px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+}
+
+.main-posts {
+  /* background-color: #00ff00; */
+  width: 75%;
+  float: left;
+  padding-right: 15px;
+  padding-left: 15px;
+  position: relative;
+}
+
+.date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px 30px 0 0;
+}
+
+.related-posts {
+  /* background-color: #00ffff; */
+  width: 25%;
+  float: left;
+}
+
+.author {
+  /* background-color: bisque; */
+  border-top: 1px solid #999;
+  padding: 10px;
+}
+
+.clearfix::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.related-posts p {
+  margin-bottom: 20px;
+}
+
+.author img {
+  /* selects only images under elements with class author */
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; /* makes image round */
+  float: left;
+}
+
+.author p {
+  float: left;
+  margin-top: 35px;
+  margin-left: 15px;
+}
+
+/* 
+NOTE: 
+
+- left and right margins are adjusted automatically based on the elements context, 
+  which is the browser window here
+
+- margin: top right bottom left
+  margin: top left/right bottom
+  margin: top/right bottom/left
+*/
