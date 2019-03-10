@@ -5,15 +5,143 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" type="text/css" href="./vendors/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="./vendors/css/icon-font.css" />
     <link rel="stylesheet" type="text/css" href="./resources/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="./resources/css/queries.css" />
     <link
-      href="https://fonts.googleapis.com/css?family=Quicksand:300,400,700"
+      href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Quicksand:300,400"
       rel="stylesheet"
     />
     <title>The Fictional Dev</title>
   </head>
 
   <body>
-    The Fictional Dev Starter...
+    <div class="container">
+      <div class="sidebar">
+        <div alt="dev photo" class="dev-photo"></div>
+
+        <h3>
+          <span>Fictional Dev</span><br />
+          <span>developer in space</span>
+        </h3>
+
+        <ul>
+          <li><a href="#" class="js-scroll-to-hero">home</a></li>
+          <li><a href="#" class="js-scroll-to-about">about</a></li>
+          <li><a href="#" class="js-scroll-to-work">work</a></li>
+          <li><a href="#" class="js-scroll-to-contact">contact</a></li>
+        </ul>
+        <p>
+          <span>
+            <script type="text/javascript">
+              document.write(new Date().getFullYear());
+            </script>
+            | Made with <i class="icon-basic-heart"></i>
+          </span>
+          <br />
+          <span
+            >by
+            <a href="https://twitter.com/joymichs" target="_blank"
+              >Joymichs</a
+            ></span
+          >
+          <br />
+          <span
+            >Demo images:
+            <a href="https://pexels.com" target="_blank">Pexels.com</a></span
+          >
+        </p>
+      </div>
+
+      <div class="content">
+        <section class="hero js-home">
+          <div class="hero-text">
+            <h1>&lt;i am a dev /&gt;</h1>
+          </div>
+        </section>
+
+        <section class="what-i-do js-about">
+          <h2>What i do ?</h2>
+          <div>
+            <div class="i-do">
+              <i class="icon-basic-smartphone icon"></i>
+              <h3>Mobile</h3>
+              <p>Talented in developing for the mobile world</p>
+            </div>
+            <div class="i-do">
+              <i class="icon-basic-world icon"></i>
+              <h3>Web</h3>
+              <p>Super-talented in developing for the web world</p>
+            </div>
+            <div class="i-do">
+              <i class="icon-basic-laptop icon"></i>
+              <h3>Desktop</h3>
+              <p>Extra-talented in developing for the desktop world</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="projects js-works">
+          <h2>I build stuffs</h2>
+          <div>
+            <figure class="project">
+              <img src="./resources/img/project-one.jpeg" />
+              <figcaption class="caption">Marshmallow</figcaption>
+            </figure>
+            <figure class="project">
+              <img src="./resources/img/project-two.jpeg" />
+              <figcaption class="caption">Nougat</figcaption>
+            </figure>
+            <figure class="project">
+              <img src="./resources/img/project-three.jpeg" />
+              <figcaption class="caption">Oreo</figcaption>
+            </figure>
+            <figure class="project">
+              <img src="./resources/img/project-four.jpeg" />
+              <figcaption class="caption">Pie</figcaption>
+            </figure>
+          </div>
+        </section>
+        <section class="contact-me js-me">
+          <h2>Reach me</h2>
+          <div>
+            <div class="form">
+              <form action="#">
+                <div class="form-group">
+                  <input
+                    type="text"
+                    class="form-input"
+                    placeholder="Name"
+                    id="name"
+                    required
+                    autocomplete="off"
+                  />
+                  <label for="name" class="form-label">Name</label>
+                </div>
+                <div class="form-group">
+                  <input
+                    type="email"
+                    class="form-input"
+                    placeholder="Email"
+                    id="email"
+                    required
+                    autocomplete="off"
+                  />
+                  <label for="email" class="form-label">Email</label>
+                </div>
+
+                <a href="#" class="btn">Send</a>
+              </form>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+    <script
+      type="text/javascript"
+      src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"
+    ></script>
+    <script type="text/javascript" src="./vendors/js/waypoint.js"></script>
+    <script type="text/javascript" src="./resources/js/scroll.js"></script>
   </body>
 </html>

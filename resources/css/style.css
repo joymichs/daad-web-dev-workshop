@@ -15,4 +15,353 @@ body {
   font-weight: 400;
   text-rendering: optimizeLegibility;
   box-sizing: border-box;
+  line-height: 1.2;
+  padding: 0 30px 30px 30px;
+}
+
+.container {
+  display: flex;
+}
+
+.container > .sidebar {
+  height: 100vh;
+  flex-grow: 1;
+  background-color: #f2f3f7;
+  position: fixed;
+  width: 200px;
+}
+
+.container > .content {
+  flex: 1 1 70%;
+  margin-left: 200px;
+  flex-direction: column;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(./img/hero.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.what-i-do {
+  padding: 80px 0 40px 0;
+}
+
+.what-i-do div {
+  display: flex;
+  max-width: 1150px;
+}
+
+.i-do {
+  flex-direction: column;
+  box-shadow: 0 3px 56px -2px rgba(0, 0, 0, 0.08);
+  padding: 20px;
+  margin-left: 20px;
+  width: 50%;
+  border-radius: 3px;
+  text-align: center;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.i-do:hover {
+  transform: translateY(-15px) scale(1.03);
+}
+
+.i-do:nth-child(1) {
+  border-bottom: 2px solid #2c98f0;
+}
+.i-do:nth-child(1) > .icon {
+  color: #2c98f0;
+}
+
+.i-do:nth-child(2) {
+  border-bottom: 2px solid #ec5453;
+}
+.i-do:nth-child(2) > .icon {
+  color: #ec5453;
+}
+
+.i-do:nth-child(3) {
+  border-bottom: 2px solid #f9bf3f;
+}
+.i-do:nth-child(3) > .icon {
+  color: #f9bf3f;
+}
+
+.i-do h3 {
+  text-transform: uppercase;
+  font-size: 90%;
+  font-weight: 400;
+}
+
+.i-do p {
+  font-size: 90%;
+  line-height: 145%;
+}
+
+.icon {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.projects {
+  padding: 40px 0 40px 0;
+}
+
+.projects > div {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1150px;
+  justify-content: space-between;
+}
+
+.project {
+  width: 47%;
+  height: 350px;
+  margin-bottom: 35px;
+  margin-left: 20px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  /* background-color: #00a1f1; */ /* another style */
+}
+
+.project img {
+  width: 100%;
+  height: 100%;
+  transform: scale(1.4);
+  transition: transform 0.5s;
+  /* opacity: 1; */ /* another style */
+  /* transition: opacity 0.5s; */ /* another style */
+}
+
+.project > .caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-15px, 150px);
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 17px;
+  opacity: 0;
+  transition: transform 0.3s;
+  font-weight: 400;
+}
+
+.project img:hover + .caption {
+  opacity: 1;
+  transform: translate(-50%, 20%);
+}
+
+.project img:hover {
+  transform: scale(1);
+  filter: blur(3px) brightness(80%);
+  /* opacity: 0; */ /* another style */
+}
+
+.contact-me {
+  padding: 40px 0 40px 0;
+}
+
+.contact-me > div {
+  background-image: linear-gradient(
+      105deg,
+      rgba(255, 255, 255, 0.9) 0%,
+      rgba(255, 255, 255, 0.9) 50%,
+      transparent 50%
+    ),
+    url("./img/contact.jpeg");
+  background-size: cover; /* same as using 100% */
+  height: 300px;
+  border-radius: 3px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.61);
+  margin-left: 20px;
+}
+
+.contact-me .form {
+  width: 50%;
+  padding: 50px;
+}
+
+.contact-me .form-group:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.contact-me .form-input {
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 2px;
+  background-color: rgba(#fff, 0.5);
+  font-family: inherit;
+  border: none;
+  border-bottom: 3px solid transparent;
+  width: 90%;
+  display: block;
+  color: inherit;
+}
+.contact-me .form-input:focus {
+  outline: none;
+  box-shadow: 0 1px 2px rgba(#000, 0.1);
+  border-bottom: 3px solid #00a1f1;
+}
+.contact-me .form-input:focus:invalid {
+  border-bottom: 3px solid #f9bf3f;
+}
+.contact-me .form-input::-webkit-input-placeholder {
+  color: #999;
+}
+
+.contact-me .form-label {
+  font-size: 12px;
+  font-weight: 400;
+  padding: 10px;
+  margin-top: 2px;
+  display: block;
+  transition: all 0.3s;
+}
+
+.contact-me .form-input:placeholder-shown + .form-label {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-40px);
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2%;
+}
+
+.dev-photo {
+  background: url("./img/hero.jpeg");
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.sidebar > h3 {
+  margin-bottom: 50px;
+}
+
+.sidebar h3 span:first-child {
+  font-family: "Playfair Display", serif;
+}
+
+.sidebar h3 span:last-child {
+  font-size: 70%;
+  font-weight: 300;
+}
+
+.sidebar > ul {
+  list-style: none;
+  margin-bottom: 50px;
+}
+
+.sidebar > ul li {
+  margin-bottom: 15px;
+}
+
+a:link,
+a:visited {
+  color: #00a1f1;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.2s;
+}
+
+.sidebar > ul li a:link,
+.sidebar > ul li a:visited {
+  color: #000;
+  padding: 8px 0;
+  text-transform: uppercase;
+  font-size: 80%;
+}
+
+a:hover,
+a:active {
+  border-bottom: 2px solid #00a1f1;
+  transition: border-bottom 0.2s;
+}
+
+.sidebar > p {
+  font-size: 70%;
+  font-weight: 300;
+  line-height: 1.9;
+}
+
+.sidebar > p i {
+  color: #ec5453;
+  vertical-align: middle;
+}
+
+.sidebar > p a {
+  border: none;
+}
+
+.js-underline {
+  border-bottom: 2px solid #00a1f1 !important;
+}
+
+h2,
+h3 {
+  font-weight: 300;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 300%;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  word-spacing: -2px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 180%;
+  word-spacing: 2px;
+  text-align: center;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-size: 110%;
+  margin-bottom: 15px;
+  color: #011b33;
+}
+
+.btn:link,
+.btn:visited {
+  padding: 10px 30px;
+  font-weight: 300;
+  text-decoration: none;
+  border-radius: 200px;
+  color: #fff;
+  transition: background-color 0.2s, border 0.2s, color 0.2s;
+  background-color: #00a1f1;
+  border: 1px solid #00a1f1;
+  color: #fff;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #00a1f1;
+  border: 1px solid #00a1f1;
 }
