@@ -4,7 +4,7 @@ a one week web development workshop for DAAD and non-DAAD persons...
 
 ### Resources
 
-- Diagrams:
+- Branches:
 
   - [html](https://github.com/joymichs/daad-web-dev-workshop/tree/html)
   - [css](https://github.com/joymichs/daad-web-dev-workshop/tree/css)
