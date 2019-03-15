@@ -26,6 +26,9 @@ a one week web development workshop for DAAD and non-DAAD persons...
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- [Next Steps](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
+- Next Steps:
+
+  - [Freecodecamp](https://learn.freecodecamp.org/)
+  - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
 
 - [Contact](https://twitter.com/joymichs)
