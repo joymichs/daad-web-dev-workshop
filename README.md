@@ -4,6 +4,8 @@ a one week web development workshop for DAAD and non-DAAD persons...
 
 ### Resources
 
+- Website Built: curiuos-teaching.surge.sh
+
 - Branches:
 
   - [html](https://github.com/joymichs/daad-web-dev-workshop/tree/html)
