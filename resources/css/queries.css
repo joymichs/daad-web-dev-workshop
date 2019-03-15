@@ -50,7 +50,7 @@
         rgba(255, 255, 255, 0.9) 60%,
         transparent 60%
       ),
-      url("./img/contact.jpeg");
+      url('./img/contact.jpeg');
   }
 
   .contact-me .form {
