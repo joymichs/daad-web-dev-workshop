@@ -4,6 +4,13 @@ a one week web development workshop for DAAD and non-DAAD persons...
 
 ### Resources
 
+- Diagrams:
+
+  - [html](https://github.com/joymichs/daad-web-dev-workshop/tree/html)
+  - [css](https://github.com/joymichs/daad-web-dev-workshop/tree/css)
+  - [fictional-dev-website-starter](https://github.com/joymichs/daad-web-dev-workshop/tree/fictional-dev-website-starter)
+  - [fictional-dev-website-finish](https://github.com/joymichs/daad-web-dev-workshop/tree/fictional-dev-website-finish)
+
 - [Slide Deck](https://noti.st/joymichs/gavEOm/starting-web-development#sAD7QjG)
 
 - Diagrams:
