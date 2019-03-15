@@ -6,7 +6,12 @@ a one week web development workshop for DAAD and non-DAAD persons...
 
 - [Slide Deck](https://noti.st/joymichs/gavEOm/starting-web-development#sAD7QjG)
 
-- Diagrams
+- Diagrams:
+
+  - [CSS - Colors](https://drive.google.com/file/d/1IeFSxZJo9sGU0iKyZv2pGb0raGysrqbY/view?usp=sharing)
+  - [CSS - Box Model](https://drive.google.com/file/d/1yckxAO176tWc9J7qRsQo4SMXz6uBcThJ/view?usp=sharing)
+  - [CSS - Block vs Inline Elements](https://drive.google.com/file/d/1S_Wm1AvpVEROQBooWFwVXdvajkNmhUYj/view?usp=sharing)
+  - [CSS - Simple Layout](https://drive.google.com/file/d/1BE7tXZMg3CPgsaJg4VpW5DLs4ZDUUfxX/view?usp=sharing)
 
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
