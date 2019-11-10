@@ -1,10 +1,10 @@
 ## Daad Web Dev Workshop
 
-a one week web development workshop for DAAD and non-DAAD persons...
+a one week web development workshop teaching how to build to build a website from scratch using HTML and CSS
 
 ### Resources
 
-- Website Built: http://material-spring.surge.sh/
+- Final Website Built to Showcase at the Workshop: http://material-spring.surge.sh/
 
 - Branches:
 
