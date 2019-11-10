@@ -1,6 +1,6 @@
 ## Daad Web Dev Workshop
 
-a one week web development workshop teaching how to build to build a website from scratch using HTML and CSS
+a one week web development workshop teaching how to build a website `from scratch` using HTML and CSS
 
 ### Resources
 
