@@ -4,7 +4,7 @@ a one week web development workshop for DAAD and non-DAAD persons...
 
 ### Resources
 
-- Website Built: curiuos-teaching.surge.sh
+- Website Built: http://material-spring.surge.sh/
 
 - Branches:
 
@@ -33,4 +33,4 @@ a one week web development workshop for DAAD and non-DAAD persons...
   - [Freecodecamp](https://learn.freecodecamp.org/)
   - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
 
-- [Contact](https://twitter.com/joymichs)
+- [Contact](https://twitter.com/iamjoynwachukwu)
