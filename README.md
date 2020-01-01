@@ -31,6 +31,9 @@ a one week web development workshop teaching how to build a website `from scratc
 - Next Steps:
 
   - [Freecodecamp](https://learn.freecodecamp.org/)
+  - [W3Schools](https://www.w3schools.com/)
+  - [Coursera](https://www.coursera.org/)
+  - [Codecademy](https://www.codecademy.com/)
   - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
