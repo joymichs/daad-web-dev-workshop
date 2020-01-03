@@ -24,11 +24,13 @@ a one week web development workshop teaching how to build a website `from scratc
 
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+- [Flexbox Practice](https://flexboxfroggy.com/)
+
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- Next Steps:
+- Learning Resources:
 
   - [Freecodecamp](https://learn.freecodecamp.org/)
   - [W3Schools](https://www.w3schools.com/)
@@ -36,5 +38,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Codecademy](https://www.codecademy.com/)
   - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
   - [Skillshare](https://https://www.skillshare.com/)
+  - [edX](https://www.edx.org/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
