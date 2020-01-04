@@ -35,5 +35,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Coursera](https://www.coursera.org/)
   - [Codecademy](https://www.codecademy.com/)
   - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
+  - [Skillshare](https://https://www.skillshare.com/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
