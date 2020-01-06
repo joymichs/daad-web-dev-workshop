@@ -28,7 +28,7 @@ a one week web development workshop teaching how to build a website `from scratc
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- Next Steps:
+- Learning Resources:
 
   - [Freecodecamp](https://learn.freecodecamp.org/)
   - [W3Schools](https://www.w3schools.com/)
@@ -36,5 +36,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Codecademy](https://www.codecademy.com/)
   - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
   - [Skillshare](https://https://www.skillshare.com/)
+  - [edX](https://www.edx.org/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
