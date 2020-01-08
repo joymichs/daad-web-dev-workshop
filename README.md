@@ -40,5 +40,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Skillshare](https://https://www.skillshare.com/)
   - [edX](https://www.edx.org/)
   - [Frontend Masters](https://frontendmasters.com/)
+  - [Pluralsight](https://www.pluralsight.com/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
