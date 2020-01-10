@@ -42,5 +42,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Frontend Masters](https://frontendmasters.com/)
   - [Pluralsight](https://www.pluralsight.com/)
   - [Sitepoint](https://www.sitepoint.com/)
+  - [FutureLearn](https://www.futurelearn.com/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
