@@ -43,5 +43,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Pluralsight](https://www.pluralsight.com/)
   - [Sitepoint](https://www.sitepoint.com/)
   - [FutureLearn](https://www.futurelearn.com/)
+  - [SoloLearn](https://www.sololearn.com/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
