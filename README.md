@@ -44,5 +44,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Sitepoint](https://www.sitepoint.com/)
   - [FutureLearn](https://www.futurelearn.com/)
   - [SoloLearn](https://www.sololearn.com/)
+  - [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
