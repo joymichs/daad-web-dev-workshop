@@ -46,5 +46,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [SoloLearn](https://www.sololearn.com/)
   - [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
   - [simplilearn](https://www.simplilearn.com/)
+  - [egghead](https://egghead.io/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
