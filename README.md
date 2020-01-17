@@ -48,5 +48,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [simplilearn](https://www.simplilearn.com/)
   - [egghead](https://egghead.io/)
   - [Javascript30](https://javascript30.com/)
+  - [Scotch](https://scotch.io/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
