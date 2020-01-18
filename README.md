@@ -49,5 +49,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [egghead](https://egghead.io/)
   - [Javascript30](https://javascript30.com/)
   - [Scotch](https://scotch.io/)
+  - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
