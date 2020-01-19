@@ -50,5 +50,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Javascript30](https://javascript30.com/)
   - [Scotch](https://scotch.io/)
   - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+  - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
