@@ -51,5 +51,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Scotch](https://scotch.io/)
   - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
   - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
+  - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
