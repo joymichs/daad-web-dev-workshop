@@ -53,5 +53,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
   - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
   - [MarkSheet](https://marksheet.io/)
+  - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
