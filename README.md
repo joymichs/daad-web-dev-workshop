@@ -57,6 +57,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - [Github Guides](https://guides.github.com/)
   - [Allyjs.io](https://allyjs.io/)
   - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
-  - [Learn X in Y minutes] (https://learnxinyminutes.com/docs/javascript/)
+  - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
