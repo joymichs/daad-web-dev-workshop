@@ -61,8 +61,8 @@ a one week web development workshop teaching how to build a website `from scratc
     - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
     
- - Podcasts:
+  - Podcasts:
   
-  - [Freecodecamp] (https://freecodecamp.libsyn.com/)
+    - [Freecodecamp](https://freecodecamp.libsyn.com/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
