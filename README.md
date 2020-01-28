@@ -64,5 +64,6 @@ a one week web development workshop teaching how to build a website `from scratc
   - Podcasts:
   
     - [Freecodecamp](https://freecodecamp.libsyn.com/)
+    - [CodeNewbie] (https://www.codenewbie.org/podcast)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
