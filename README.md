@@ -32,7 +32,7 @@ a one week web development workshop teaching how to build a website `from scratc
 
 - Learning Resources:
 
-  - General: 
+  - General:
 
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [W3Schools](https://www.w3schools.com/)
@@ -60,12 +60,13 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Allyjs.io](https://allyjs.io/)
     - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-    
+
   - Podcasts:
-  
+
     - [Freecodecamp](https://freecodecamp.libsyn.com/)
     - [CodeNewbie](https://www.codenewbie.org/podcast)
     - [Behind the Tech](https://behindthetech.libsynpro.com/)
     - [Rework](https://rework.fm/)
+    - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
