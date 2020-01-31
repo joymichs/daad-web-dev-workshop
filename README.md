@@ -68,6 +68,6 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Behind the Tech](https://behindthetech.libsynpro.com/)
     - [Rework](https://rework.fm/)
     - [Developer Tea](https://spec.fm/podcasts/developer-tea)
-    -
+    - more coming...
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
