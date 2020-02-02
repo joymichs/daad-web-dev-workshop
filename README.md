@@ -41,7 +41,6 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
     - [Skillshare](https://https://www.skillshare.com/)
     - [edX](https://www.edx.org/)
-    - [Frontend Masters](https://frontendmasters.com/)
     - [Pluralsight](https://www.pluralsight.com/)
     - [Sitepoint](https://www.sitepoint.com/)
     - [FutureLearn](https://www.futurelearn.com/)
@@ -70,5 +69,8 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Developer Tea](https://spec.fm/podcasts/developer-tea)
     - [Full Stack Radio](http://www.fullstackradio.com/)
     - more coming...
+    
+  - Frontend
+    - [Frontend Masters](https://frontendmasters.com/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
