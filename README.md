@@ -69,8 +69,10 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Developer Tea](https://spec.fm/podcasts/developer-tea)
     - [Full Stack Radio](http://www.fullstackradio.com/)
     - more coming...
-    
+
   - Frontend
     - [Frontend Masters](https://frontendmasters.com/)
+    - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
+    - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
