@@ -75,5 +75,9 @@ a one week web development workshop teaching how to build a website `from scratc
     - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
     - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
     - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
+    
+  - Tools
+  
+    - [Version Control with Git by Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
 
 - [Contact](https://twitter.com/iamjoynwachukwu)
