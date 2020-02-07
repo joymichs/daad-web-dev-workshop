@@ -39,6 +39,7 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Coursera](https://www.coursera.org/)
     - [Codecademy](https://www.codecademy.com/)
     - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
+    - [Udacity] (https://www.udacity.com/)
     - [Skillshare](https://https://www.skillshare.com/)
     - [edX](https://www.edx.org/)
     - [Pluralsight](https://www.pluralsight.com/)
