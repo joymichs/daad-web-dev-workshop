@@ -37,7 +37,7 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
-    - [Team Treehouse] (https://teamtreehouse.com/)
+    - [Team Treehouse](https://teamtreehouse.com/)
     - [Codecademy](https://www.codecademy.com/)
     - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
     - [Udacity](https://www.udacity.com/)
