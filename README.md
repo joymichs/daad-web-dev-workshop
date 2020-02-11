@@ -62,6 +62,7 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Allyjs.io](https://allyjs.io/)
     - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
+    - [Khan Academy] (https://www.khanacademy.org/)
     - more coming...
 
   - Podcasts:
