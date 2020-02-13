@@ -82,4 +82,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     
   - Workflow
   
-    - [Git] (https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+    - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
