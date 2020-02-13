@@ -1,6 +1,6 @@
 ## Daad Web Dev Workshop
 
-a one week web development workshop teaching how to build a website `from scratch` using HTML and CSS
+a one-week web development workshop teaching how to build a website `from scratch` using HTML and CSS
 
 ### Resources
 
@@ -25,8 +25,6 @@ a one week web development workshop teaching how to build a website `from scratc
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 - [Flexbox Practice](https://flexboxfroggy.com/)
-
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -82,6 +80,6 @@ a one week web development workshop teaching how to build a website `from scratc
     - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
     - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
     
-  - Tools
+  - Workflow
   
-    - [
+    - [Git] (https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
