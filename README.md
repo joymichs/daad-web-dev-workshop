@@ -26,7 +26,6 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 - [Flexbox Practice](https://flexboxfroggy.com/)
 
-- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - Learning Resources:
 
@@ -83,3 +82,4 @@ a one-week web development workshop teaching how to build a website `from scratc
   - Workflow and Toold
   
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+    - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
