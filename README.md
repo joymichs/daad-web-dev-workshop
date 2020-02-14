@@ -80,6 +80,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
     - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
     
-  - Workflow
+  - Workflow and Toold
   
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
