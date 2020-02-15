@@ -75,7 +75,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Frontend
     - CSS
-      - [Learn CSS Layout] (http://learnlayout.com/)
+      - [Learn CSS Layout](http://learnlayout.com/)
     - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
