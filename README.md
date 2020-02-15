@@ -24,7 +24,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-- [Flexbox Practice](https://flexboxfroggy.com/)
+- [Flexbox Game](https://flexboxfroggy.com/)
 
 
 - Learning Resources:
