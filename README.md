@@ -23,8 +23,8 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [CSS - Simple Layout](https://drive.google.com/file/d/1BE7tXZMg3CPgsaJg4VpW5DLs4ZDUUfxX/view?usp=sharing)
 
 - Flexbox
-- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox Game](https://flexboxfroggy.com/)
+  - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Flexbox Game](https://flexboxfroggy.com/)
 
 
 - Learning Resources:
