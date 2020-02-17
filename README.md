@@ -22,8 +22,8 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [CSS - Block vs Inline Elements](https://drive.google.com/file/d/1S_Wm1AvpVEROQBooWFwVXdvajkNmhUYj/view?usp=sharing)
   - [CSS - Simple Layout](https://drive.google.com/file/d/1BE7tXZMg3CPgsaJg4VpW5DLs4ZDUUfxX/view?usp=sharing)
 
+- Flexbox
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
 - [Flexbox Game](https://flexboxfroggy.com/)
 
 
