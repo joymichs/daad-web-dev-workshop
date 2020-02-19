@@ -26,8 +26,7 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Flexbox Game](https://flexboxfroggy.com/)
 
-
-- Learning Resources:
+* More Learning Resources:
 
   - General:
 
@@ -75,6 +74,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - more coming...
 
   - Frontend
+
     - CSS
       - [Learn CSS Layout](http://learnlayout.com/)
       - more coming...
@@ -84,8 +84,9 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
       - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
       - more coming...
-    
+
   - Workflow and Tools
-  
+
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
     - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - more coming...
