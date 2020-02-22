@@ -32,6 +32,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
+    - [Dive in to HTML5] (http://diveinto.html5doctor.com/)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
     - [Team Treehouse](https://teamtreehouse.com/)
