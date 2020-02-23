@@ -79,7 +79,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - CSS
       - [Learn CSS Layout](http://learnlayout.com/)
       - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
-      - [Maintainable CSS] (https://maintainablecss.com/)
+      - [Maintainable CSS](https://maintainablecss.com/)
       - more coming...
     - React
       - [Frontend Masters](https://frontendmasters.com/)
