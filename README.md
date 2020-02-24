@@ -32,6 +32,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
+    - [Free HTML and CSS](https://marksheet.io/)
     - [Dive in to HTML5](http://diveinto.html5doctor.com/)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
@@ -92,4 +93,5 @@ a one-week web development workshop teaching how to build a website `from scratc
 
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
     - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
     - more coming...
