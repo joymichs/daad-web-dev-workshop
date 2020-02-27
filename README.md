@@ -93,7 +93,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - Git
       - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
       - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
-    - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+      - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
     
     - Markdown
       - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
