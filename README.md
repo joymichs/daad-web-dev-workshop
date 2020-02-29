@@ -95,7 +95,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
       - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
       - [Git Workflow](http://documentup.com/skwp/git-workflows-book)
-      - [Git Pocket Guide] (https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
+      - [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
     
     - Markdown
       - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
