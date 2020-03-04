@@ -25,6 +25,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 - Flexbox
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Flexbox Game](https://flexboxfroggy.com/)
+  - [Understanding Flexbox](https://ohansemmanuel.github.io/uf_download.html)
 
 * More Learning Resources:
 
@@ -34,6 +35,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [Free HTML and CSS](https://marksheet.io/)
     - [Dive in to HTML5](http://diveinto.html5doctor.com/)
+    - [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
     - [Team Treehouse](https://teamtreehouse.com/)
