@@ -75,7 +75,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Developer Tea](https://spec.fm/podcasts/developer-tea)
     - [Full Stack Radio](http://www.fullstackradio.com/)
     - [Frontend Happy Hour](https://frontendhappyhour.com/)
-    - [Syntax] (https://syntax.fm/)
+    - [Syntax](https://syntax.fm/)
     - more coming...
 
   - Frontend
