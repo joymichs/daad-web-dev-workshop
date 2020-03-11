@@ -77,6 +77,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Frontend Happy Hour](https://frontendhappyhour.com/)
     - [Syntax](https://syntax.fm/)
     - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
+    - [Shop Talk Show] (https://shoptalkshow.com/)
     - more coming...
 
   - Frontend
