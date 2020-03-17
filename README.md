@@ -87,6 +87,8 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
       - [Maintainable CSS](https://maintainablecss.com/)
       - more coming...
+    - Javascript
+      - [Speaking Javascript] (http://speakingjs.com/es5/)
     - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
