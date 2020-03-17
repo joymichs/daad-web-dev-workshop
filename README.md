@@ -88,7 +88,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Maintainable CSS](https://maintainablecss.com/)
       - more coming...
     - Javascript
-      - [Speaking Javascript] (http://speakingjs.com/es5/)
+      - [Speaking Javascript](http://speakingjs.com/es5/)
     - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
