@@ -107,6 +107,8 @@ a one-week web development workshop teaching how to build a website `from scratc
       - more coming...
 
   - Workflow, Tools and Concepts
+    - Tooling
+      - [Book of Modern Frontend Tooling] (https://github.com/tooling/book-of-modern-frontend-tooling)
 
     - Git
 
