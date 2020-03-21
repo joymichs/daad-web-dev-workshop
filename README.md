@@ -89,7 +89,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - more coming...
     - Javascript
       - [Speaking Javascript](http://speakingjs.com/es5/)
-      - [ES6] (http://exploringjs.com/es6/)
+      - [Exploring ES6] (http://exploringjs.com/es6/)
       - [Javasript Challenges](https://tcorral.github.io/javascript-challenges-book/)
       - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
       - [Javascript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
