@@ -93,6 +93,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Javasript Challenges](https://tcorral.github.io/javascript-challenges-book/)
       - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
       - [Javascript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
+      - [Javascript the Right Way] (https://github.com/braziljs/js-the-right-way)
     - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
