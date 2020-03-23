@@ -61,7 +61,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
     - [Github Guides](https://guides.github.com/)
     - [Allyjs.io](https://allyjs.io/)
-    - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
@@ -94,6 +93,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
       - [Javascript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
       - [Javascript the Right Way](https://github.com/braziljs/js-the-right-way)
+      - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
     - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
