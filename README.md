@@ -94,6 +94,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Javascript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
       - [Javascript the Right Way](https://github.com/braziljs/js-the-right-way)
       - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+      - more coming...
     - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
