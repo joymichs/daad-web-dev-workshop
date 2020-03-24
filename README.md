@@ -36,6 +36,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Free HTML and CSS](https://marksheet.io/)
     - [Dive in to HTML5](http://diveinto.html5doctor.com/)
     - [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
+    - [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
     - [Team Treehouse](https://teamtreehouse.com/)
