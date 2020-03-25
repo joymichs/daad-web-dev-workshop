@@ -53,7 +53,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
     - [simplilearn](https://www.simplilearn.com/)
     - [egghead](https://egghead.io/)
-    - [Javascript30](https://javascript30.com/)
     - [Scotch](https://scotch.io/)
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
@@ -89,6 +88,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - more coming...
     - Javascript
       - [Speaking Javascript](http://speakingjs.com/es5/)
+      - [Javascript30](https://javascript30.com/)
       - [Exploring ES6](http://exploringjs.com/es6/)
       - [Javasript Challenges](https://tcorral.github.io/javascript-challenges-book/)
       - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
