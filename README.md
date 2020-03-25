@@ -34,8 +34,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [Free HTML and CSS](https://marksheet.io/)
-    - [Dive in to HTML5](http://diveinto.html5doctor.com/)
-    - [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
     - [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
@@ -65,22 +63,11 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
 
-  - Podcasts:
-
-    - [Freecodecamp](https://freecodecamp.libsyn.com/)
-    - [CodeNewbie](https://www.codenewbie.org/podcast)
-    - [Behind the Tech](https://behindthetech.libsynpro.com/)
-    - [Rework](https://rework.fm/)
-    - [Developer Tea](https://spec.fm/podcasts/developer-tea)
-    - [Full Stack Radio](http://www.fullstackradio.com/)
-    - [Frontend Happy Hour](https://frontendhappyhour.com/)
-    - [Syntax](https://syntax.fm/)
-    - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
-    - [Shop Talk Show](https://shoptalkshow.com/)
-    - more coming...
-
-  - The building blocks of the web
-
+  - The Building Blocks of the Web:
+    
+    - HTML
+      - [Dive in to HTML5](http://diveinto.html5doctor.com/)
+      - [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
     - CSS
       - [Learn CSS Layout](http://learnlayout.com/)
       - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
@@ -107,6 +94,20 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
       - more coming...
   
+ - Podcasts:
+
+      - [Freecodecamp](https://freecodecamp.libsyn.com/)
+      - [CodeNewbie](https://www.codenewbie.org/podcast)
+      - [Behind the Tech](https://behindthetech.libsynpro.com/)
+      - [Rework](https://rework.fm/)
+      - [Developer Tea](https://spec.fm/podcasts/developer-tea)
+      - [Full Stack Radio](http://www.fullstackradio.com/)
+      - [Frontend Happy Hour](https://frontendhappyhour.com/)
+      - [Syntax](https://syntax.fm/)
+      - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
+      - [Shop Talk Show](https://shoptalkshow.com/)
+      - more coming...
+      
  - Interviews
 
    - Javascript
