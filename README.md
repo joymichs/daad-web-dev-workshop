@@ -79,7 +79,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Shop Talk Show](https://shoptalkshow.com/)
     - more coming...
 
-  - Frontend
+  - The building blocks of the web
 
     - CSS
       - [Learn CSS Layout](http://learnlayout.com/)
@@ -96,7 +96,9 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Javascript the Right Way](https://github.com/braziljs/js-the-right-way)
       - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
       - more coming...
-    - React
+      
+ - Frontend
+   - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
       - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
@@ -104,18 +106,18 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [React Bits](https://github.com/vasanthk/react-bits)
       - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
       - more coming...
+  
+ - Interviews
 
-  - Interviews
-
-    - Javascript
+   - Javascript
       - [Sudheerj](https://github.com/sudheerj/javascript-interview-questions)
       - more coming...
 
-  - Workflow, Tools and Concepts
-    - Tooling
+ - Workflow, Tools and Concepts
+   - Tooling
       - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
-    - Git
+   - Git
 
       - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
       - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
@@ -125,6 +127,6 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
       - more coming....
 
-    - Markdown
+   - Markdown
       - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
       - more coming....
