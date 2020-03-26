@@ -30,7 +30,6 @@ a one-week web development workshop teaching how to build a website `from scratc
 * More Learning Resources:
 
   - General:
-
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
     - [Free HTML and CSS](https://marksheet.io/)
@@ -54,7 +53,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Scotch](https://scotch.io/)
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
-    - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
     - [MarkSheet](https://marksheet.io/)
     - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
     - [Github Guides](https://guides.github.com/)
@@ -62,6 +60,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
+    
 
   - The Building Blocks of the Web:
     
@@ -82,10 +81,11 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Javascript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
       - [Javascript the Right Way](https://github.com/braziljs/js-the-right-way)
       - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+      - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
       - more coming...
       
- - Frontend
-   - React
+  - Frontend
+    - React
       - [Frontend Masters](https://frontendmasters.com/)
       - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
       - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
@@ -94,31 +94,31 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
       - more coming...
   
- - Podcasts:
+  - Podcasts:
 
-      - [Freecodecamp](https://freecodecamp.libsyn.com/)
-      - [CodeNewbie](https://www.codenewbie.org/podcast)
-      - [Behind the Tech](https://behindthetech.libsynpro.com/)
-      - [Rework](https://rework.fm/)
-      - [Developer Tea](https://spec.fm/podcasts/developer-tea)
-      - [Full Stack Radio](http://www.fullstackradio.com/)
-      - [Frontend Happy Hour](https://frontendhappyhour.com/)
-      - [Syntax](https://syntax.fm/)
-      - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
-      - [Shop Talk Show](https://shoptalkshow.com/)
-      - more coming...
+    - [Freecodecamp](https://freecodecamp.libsyn.com/)
+    - [CodeNewbie](https://www.codenewbie.org/podcast)
+    - [Behind the Tech](https://behindthetech.libsynpro.com/)
+    - [Rework](https://rework.fm/)
+    - [Developer Tea](https://spec.fm/podcasts/developer-tea)
+    - [Full Stack Radio](http://www.fullstackradio.com/)
+    - [Frontend Happy Hour](https://frontendhappyhour.com/)
+    - [Syntax](https://syntax.fm/)
+    - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
+    - [Shop Talk Show](https://shoptalkshow.com/)
+    - more coming...
       
- - Interviews
+  - Interviews
 
-   - Javascript
+    - Javascript
       - [Sudheerj](https://github.com/sudheerj/javascript-interview-questions)
       - more coming...
 
- - Workflow, Tools and Concepts
-   - Tooling
+  - Workflow, Tools and Concepts
+    - Tooling
       - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
-   - Git
+    - Git
 
       - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
       - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
@@ -128,6 +128,6 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
       - more coming....
 
-   - Markdown
+    - Markdown
       - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
       - more coming....
