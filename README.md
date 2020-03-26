@@ -68,6 +68,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Learn CSS Layout](http://learnlayout.com/)
       - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
       - [Maintainable CSS](https://maintainablecss.com/)
+      - [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
       - more coming...
     - HTML and CSS
       - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
