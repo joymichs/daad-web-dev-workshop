@@ -31,9 +31,6 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - General:
     - [Freecodecamp](https://learn.freecodecamp.org/)
-    - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
-    - [Free HTML and CSS](https://marksheet.io/)
-    - [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
     - [W3Schools](https://www.w3schools.com/)
     - [Coursera](https://www.coursera.org/)
     - [Team Treehouse](https://teamtreehouse.com/)
@@ -72,6 +69,10 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
       - [Maintainable CSS](https://maintainablecss.com/)
       - more coming...
+    - HTML and CSS
+      - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
+      - [Free HTML and CSS](https://marksheet.io/)
+      - [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
     - Javascript
       - [Speaking Javascript](http://speakingjs.com/es5/)
       - [Javascript30](https://javascript30.com/)
@@ -130,4 +131,3 @@ a one-week web development workshop teaching how to build a website `from scratc
 
     - Markdown
       - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-      - more coming....
