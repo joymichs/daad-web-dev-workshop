@@ -53,7 +53,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [MarkSheet](https://marksheet.io/)
     - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
     - [Github Guides](https://guides.github.com/)
-    - [Allyjs.io](https://allyjs.io/)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
@@ -84,6 +83,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Javascript the Right Way](https://github.com/braziljs/js-the-right-way)
       - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
       - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
+      - [Allyjs.io](https://allyjs.io/)
       - more coming...
       
   - Frontend
