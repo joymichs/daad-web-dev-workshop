@@ -51,7 +51,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
     - [MarkSheet](https://marksheet.io/)
-    - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
     - [Github Guides](https://guides.github.com/)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
     - [Khan Academy](https://www.khanacademy.org/)
@@ -68,6 +67,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
       - [Maintainable CSS](https://maintainablecss.com/)
       - [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
+      - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
       - more coming...
     - HTML and CSS
       - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
