@@ -50,7 +50,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Scotch](https://scotch.io/)
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
-    - [Github Guides](https://guides.github.com/)
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
     
@@ -120,7 +119,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - Tooling
       - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
-    - Git
+    - Git and GitHub
 
       - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
       - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
@@ -128,6 +127,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Git Workflow](http://documentup.com/skwp/git-workflows-book)
       - [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
       - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
+      - [Github Guides](https://guides.github.com/)
       - more coming....
 
     - Markdown
