@@ -50,7 +50,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Scotch](https://scotch.io/)
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
-    - [MarkSheet](https://marksheet.io/)
     - [Github Guides](https://guides.github.com/)
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
@@ -72,6 +71,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
       - [Free HTML and CSS](https://marksheet.io/)
       - [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
+      - [MarkSheet](https://marksheet.io/)
     - Javascript
       - [Speaking Javascript](http://speakingjs.com/es5/)
       - [Javascript30](https://javascript30.com/)
