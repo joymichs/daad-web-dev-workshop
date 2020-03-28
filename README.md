@@ -52,7 +52,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
     - [MarkSheet](https://marksheet.io/)
     - [Github Guides](https://guides.github.com/)
-    - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
     - [Khan Academy](https://www.khanacademy.org/)
     - more coming...
     
@@ -84,6 +83,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
       - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
       - [Allyjs.io](https://allyjs.io/)
+      - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
       - more coming...
       
   - Frontend
