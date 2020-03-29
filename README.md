@@ -51,7 +51,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
     - [Khan Academy](https://www.khanacademy.org/)
-    - more coming...
     
 
   - The Building Blocks of the Web:
