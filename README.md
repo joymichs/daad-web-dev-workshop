@@ -126,7 +126,6 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
       - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
       - [Github Guides](https://guides.github.com/)
-      - more coming....
 
     - Markdown
       - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
