@@ -83,7 +83,6 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
       - [Allyjs.io](https://allyjs.io/)
       - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-      - more coming...
       
   - Frontend
     - React
