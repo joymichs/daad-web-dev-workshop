@@ -96,7 +96,6 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
       - [React Bits](https://github.com/vasanthk/react-bits)
       - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
-      - more coming...
   
   - Podcasts:
 
