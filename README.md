@@ -84,6 +84,10 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Allyjs.io](https://allyjs.io/)
       - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
       
+  - Programming Languages
+    - Python
+       - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+      
   - Frontend
     - React
       - [Frontend Masters](https://frontendmasters.com/)
