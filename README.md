@@ -52,6 +52,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [The Coding Train](https://www.youtube.com/user/shiffman/videos)
     - [Khan Academy](https://www.khanacademy.org/)
     - [MIT OCM](https://ocw.mit.edu/index.htm)
+    - [Platzi](https://courses.platzi.com/)
     
 
   - The Building Blocks of the Web:
