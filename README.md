@@ -39,6 +39,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
     - [Udacity](https://www.udacity.com/)
     - [Skillshare](https://https://www.skillshare.com/)
+    - [openSAP](https://open.sap.com/)
     - [edX](https://www.edx.org/)
     - [Pluralsight](https://www.pluralsight.com/)
     - [Sitepoint](https://www.sitepoint.com/)
