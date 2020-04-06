@@ -54,6 +54,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Khan Academy](https://www.khanacademy.org/)
     - [MIT OCM](https://ocw.mit.edu/index.htm)
     - [Platzi](https://courses.platzi.com/)
+    - [openHPI](https://open.hpi.de/)
     
 
   - The Building Blocks of the Web:
