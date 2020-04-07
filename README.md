@@ -68,7 +68,6 @@ a one-week web development workshop teaching how to build a website `from scratc
       - [Maintainable CSS](https://maintainablecss.com/)
       - [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
       - [30 seconds of code](https://www.30secondsofcode.org/css/p/1)
-      - more coming...
     - HTML and CSS
       - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/)
       - [Free HTML and CSS](https://marksheet.io/)
