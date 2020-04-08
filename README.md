@@ -89,6 +89,7 @@ a one-week web development workshop teaching how to build a website `from scratc
   - Programming Languages
     - Python
        - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+       - [Think Python](https://greenteapress.com/wp/think-python/)
       
   - Frontend
     - React
