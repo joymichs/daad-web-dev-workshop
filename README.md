@@ -93,6 +93,7 @@ a one-week web development workshop teaching how to build a website `from scratc
        - [stephenh67/python-resources-2019](https://github.com/stephenh67/python-resources-2019)
        - [adrianmoisey/learn-python](https://github.com/adrianmoisey/learn-python)
        - [jorisboeye/python-resources](https://github.com/jorisboeye/python-resources)
+       - [feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
       
   - Frontend
     - React
