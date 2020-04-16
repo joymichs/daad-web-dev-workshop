@@ -88,6 +88,7 @@ a one-week web development workshop teaching how to build a website `from scratc
       
   - Programming Languages
     - Python
+       - [ignani/LearnPython](https://github.com/ignani/LearnPython)
        - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
        - [vinta/awesome-python](https://github.com/vinta/awesome-python)
        - [stephenh67/python-resources-2019](https://github.com/stephenh67/python-resources-2019)
