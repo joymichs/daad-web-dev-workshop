@@ -98,6 +98,7 @@ a one-week web development workshop teaching how to build a website `from scratc
        - [feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
        - [jareddrayton/Python-Resources](https://github.com/jareddrayton/Python-Resources)
        - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
+       - [techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
       
   - Frontend
     - React
