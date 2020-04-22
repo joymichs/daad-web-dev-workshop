@@ -100,6 +100,7 @@ a one-week web development workshop teaching how to build a website `from scratc
        - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
        - [techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
        - [hakin9](https://hakin9.org/list-of-free-python-resources/)
+       - [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
       
   - Frontend
     - React
