@@ -101,6 +101,7 @@ a one-week web development workshop teaching how to build a website `from scratc
        - [techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
        - [hakin9](https://hakin9.org/list-of-free-python-resources/)
        - [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
+       - [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
       
   - Frontend
     - React
