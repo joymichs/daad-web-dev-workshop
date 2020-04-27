@@ -104,6 +104,7 @@ a one-week web development workshop teaching how to build a website `from scratc
        - [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
        - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
        - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
+       - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
       
   - Frontend
     - React
