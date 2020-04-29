@@ -189,7 +189,10 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
 
 * Programming Languages
+<<<<<<< HEAD
 
+=======
+>>>>>>> b1103ccca120564db32c352bd3ba83b737278b53
   - Python
 
     - [ignani/LearnPython](https://github.com/ignani/LearnPython)
@@ -209,8 +212,11 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
     - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
     - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+<<<<<<< HEAD
     - [Learn Python](https://www.computerscienceonline.org/learn-python/)
 
+=======
+>>>>>>> b1103ccca120564db32c352bd3ba83b737278b53
 * Frontend
 
   - React
