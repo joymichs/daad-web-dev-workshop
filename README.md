@@ -91,6 +91,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Python
 
+    - [Freecodecamp](https://www.freecodecamp.org/news/python-tutorials-challenges-and-other-resources/)
     - [ignani/LearnPython](https://github.com/ignani/LearnPython)
     - [AndersBallegaard/Python-resources](https://github.com/AndersBallegaard/Python-resources)
     - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
