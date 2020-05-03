@@ -110,6 +110,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
     - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
     - [Python Resources](https://pythontips.com/python-resources/)
+    - [Hackernoon](https://hackernoon.com/top-python-resources-for-beginners-yi6h3yh0)
 
 - Frontend
 
