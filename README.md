@@ -91,6 +91,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Python
 
+    - [Freecodecamp](https://www.freecodecamp.org/news/python-tutorials-challenges-and-other-resources/)
     - [ignani/LearnPython](https://github.com/ignani/LearnPython)
     - [AndersBallegaard/Python-resources](https://github.com/AndersBallegaard/Python-resources)
     - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
@@ -109,6 +110,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
     - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
     - [Python Resources](https://pythontips.com/python-resources/)
+    - [Hackernoon](https://hackernoon.com/top-python-resources-for-beginners-yi6h3yh0)
 
 - Frontend
 
@@ -210,6 +212,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
     - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
     - [Learn Python](https://www.computerscienceonline.org/learn-python/)
+    - [Stackify](https://stackify.com/learn-python-tutorials/)
 
 * Frontend
 
