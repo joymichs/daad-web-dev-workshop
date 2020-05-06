@@ -213,6 +213,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
     - [Learn Python](https://www.computerscienceonline.org/learn-python/)
     - [Stackify](https://stackify.com/learn-python-tutorials/)
+    - [Hackr](https://hackr.io/tutorials/learn-python)
 
 * Frontend
 
