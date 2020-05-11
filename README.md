@@ -268,3 +268,4 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Resources
     - [Cognitive Class](https://cognitiveclass.ai/learn/data-science)
+    - [Awesome Learn Datascience](https://github.com/siboehm/awesome-learn-datascience)
