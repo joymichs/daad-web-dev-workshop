@@ -271,3 +271,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Awesome Learn Datascience](https://github.com/siboehm/awesome-learn-datascience)
     - [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-  resources/blob/master/README.md)
     - [Data Science Resources](https://github.com/topics/data-science-resources)
+    - [AdiBro/Data-Science-Resources](https://github.com/AdiBro/Data-Science-Resources)
