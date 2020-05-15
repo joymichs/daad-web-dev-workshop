@@ -267,7 +267,9 @@ a one-week web development workshop teaching how to build a website `from scratc
 * Data Science
 
   - Resources
+    - [Knuggets](https://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
     - [Cognitive Class](https://cognitiveclass.ai/learn/data-science)
     - [Awesome Learn Datascience](https://github.com/siboehm/awesome-learn-datascience)
-    - [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-  resources/blob/master/README.md)
+    - [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best- resources/blob/master/README.md)
     - [Data Science Resources](https://github.com/topics/data-science-resources)
+    - [AdiBro/Data-Science-Resources](https://github.com/AdiBro/Data-Science-Resources)
