@@ -273,3 +273,5 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best- resources/blob/master/README.md)
     - [Data Science Resources](https://github.com/topics/data-science-resources)
     - [AdiBro/Data-Science-Resources](https://github.com/AdiBro/Data-Science-Resources)
+    - [Dataquest](https://www.dataquest.io/)
+    - [DataCamp](https://learn.datacamp.com/)
