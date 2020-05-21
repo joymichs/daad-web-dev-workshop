@@ -276,3 +276,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Dataquest](https://www.dataquest.io/)
     - [DataCamp](https://learn.datacamp.com/)
     - [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
+    - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)
