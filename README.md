@@ -279,3 +279,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)
     - [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
     - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+    - [abhat222/Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
