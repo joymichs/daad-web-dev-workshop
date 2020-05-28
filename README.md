@@ -282,3 +282,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [jonathan-bower/DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)
     - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs)
     - [chaconnewu/free-data-science-books](https://github.com/chaconnewu/free-data-science-books)
+    - [LearnDataSci/free-data-science-learning](https://github.com/LearnDataSci/free-data-science-learning)
