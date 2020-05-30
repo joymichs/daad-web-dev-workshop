@@ -284,3 +284,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [chaconnewu/free-data-science-books](https://github.com/chaconnewu/free-data-science-books)
     - [LearnDataSci/free-data-science-learning](https://github.com/LearnDataSci/free-data-science-learning)
     - [Leo-G/Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki)
+    - [Elite Data Science](https://elitedatascience.com/data-science-resources)
