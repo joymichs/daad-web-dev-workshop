@@ -267,6 +267,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 * Data Science
 
   - Resources
+    - [Dev.to Machine Learning](https://dev.to/t/machinelearning)
     - [Knuggets](https://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
     - [Cognitive Class](https://cognitiveclass.ai/learn/data-science)
     - [Awesome Learn Datascience](https://github.com/siboehm/awesome-learn-datascience)
