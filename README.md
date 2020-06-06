@@ -289,3 +289,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Elite Data Science](https://elitedatascience.com/data-science-resources)
     - [Dev.to Python](https://dev.to/t/python)
     - [Udacity Intro to Datascience](https://www.udacity.com/course/intro-to-data-science--ud359)
+    - [Datascience Masters](http://datasciencemasters.org/)
