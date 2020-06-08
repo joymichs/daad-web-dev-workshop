@@ -291,3 +291,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Udacity Intro to Datascience](https://www.udacity.com/course/intro-to-data-science--ud359)
     - [Datascience Masters](http://datasciencemasters.org/)
     - [Stanford Online](https://online.stanford.edu/lagunita-learning-platform)
+    - [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
