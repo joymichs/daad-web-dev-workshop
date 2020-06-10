@@ -293,3 +293,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Stanford Online](https://online.stanford.edu/lagunita-learning-platform)
     - [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
     - [Elements of Statistical learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+    - [Google's Python Class](https://developers.google.com/edu/python/)
