@@ -295,3 +295,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Elements of Statistical learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
     - [Google's Python Class](https://developers.google.com/edu/python/)
     - [Coursera Data science course in R](https://www.coursera.org/specializations/jhu-data-science)
+    - [Simply Statistics](http://simplystatistics.org/)
