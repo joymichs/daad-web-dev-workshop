@@ -267,6 +267,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 * Data Science
 
   - Resources
+    - [Data Elixir](http://dataelixir.com/)
     - [Dev.to Machine Learning](https://dev.to/t/machinelearning)
     - [Dev.to Data Science](https://dev.to/t/datascience)
     - [Knuggets](https://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
@@ -298,3 +299,4 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Simply Statistics](http://simplystatistics.org/)
     - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
     - [Yhat Blog](http://blog.yhat.com/)
+    
