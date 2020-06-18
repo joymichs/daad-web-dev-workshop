@@ -268,6 +268,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Resources
     - [Data Elixir](http://dataelixir.com/)
+    - [Caltech's Resource](http://work.caltech.edu/telecourse.html)
     - [Dev.to Machine Learning](https://dev.to/t/machinelearning)
     - [Dev.to Data Science](https://dev.to/t/datascience)
     - [Knuggets](https://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
