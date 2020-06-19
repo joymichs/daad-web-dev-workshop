@@ -300,4 +300,5 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Simply Statistics](http://simplystatistics.org/)
     - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
     - [Yhat Blog](http://blog.yhat.com/)
+    - [R-bloggers](http://www.r-bloggers.com/)
     
