@@ -301,6 +301,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
     - [Yhat Blog](http://blog.yhat.com/)
     - [R-bloggers](http://www.r-bloggers.com/)
+    - [Machine Learning Mastery](https://machinelearningmastery.com/)
     
   - Conferences
     - [NIPS Conference](https://nips.cc/)
