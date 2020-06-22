@@ -305,4 +305,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     
   - Conferences
     - [NIPS Conference](https://nips.cc/)
+  - Communities
+    - [Cross Validated](http://stats.stackexchange.com/)
     
