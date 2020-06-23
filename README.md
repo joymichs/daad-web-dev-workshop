@@ -303,8 +303,10 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [R-bloggers](http://www.r-bloggers.com/)
     - [Machine Learning Mastery](https://machinelearningmastery.com/)
     
+    
   - Conferences
     - [NIPS Conference](https://nips.cc/)
   - Communities
     - [Cross Validated](http://stats.stackexchange.com/)
+    - [Datatau](http://www.datatau.com/)
     
