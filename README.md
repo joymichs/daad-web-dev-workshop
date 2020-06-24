@@ -267,6 +267,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 * Data Science
 
   - Resources
+
     - [Data Elixir](http://dataelixir.com/)
     - [Caltech's Resource](http://work.caltech.edu/telecourse.html)
     - [Dev.to Machine Learning](https://dev.to/t/machinelearning)
@@ -302,9 +303,10 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Yhat Blog](http://blog.yhat.com/)
     - [R-bloggers](http://www.r-bloggers.com/)
     - [Machine Learning Mastery](https://machinelearningmastery.com/)
-    
+    - [Data Science Masters](http://datasciencemasters.org/)
+
   - Conferences
     - [NIPS Conference](https://nips.cc/)
   - Communities
     - [Cross Validated](http://stats.stackexchange.com/)
-    
+    - [Datatau](http://www.datatau.com/)
