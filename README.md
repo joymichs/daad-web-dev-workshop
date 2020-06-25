@@ -307,8 +307,5 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Conferences
     - [NIPS Conference](https://nips.cc/)
-  - Communities - [Cross Validated](http://stats.stackexchange.com/) - [Datatau](http://www.datatau.com/)
-    <<<<<<< HEAD
-    =======
-
-> > > > > > > 894fb24b7d7ddd4fc02bf0ac4ee3c290384bc99f
+  - Communities
+    - [Cross Validated](http://stats.stackexchange.com/) - [Datatau](http://www.datatau.com/)
