@@ -306,9 +306,8 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Data Science Masters](http://datasciencemasters.org/)
     - [Openintro Statistics](https://www.openintro.org/stat/textbook.php)
 
-  - Conferences
+  - Conferences, Communities, summits and Competitions
     - [NIPS Conference](https://nips.cc/)
-  - Communities, summits and Competitions
     - [Cross Validated](http://stats.stackexchange.com/) 
     - [Datatau](http://www.datatau.com/)
     - [Kaggle](https://www.kaggle.com/competitions)
