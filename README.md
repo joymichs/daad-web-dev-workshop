@@ -305,6 +305,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Machine Learning Mastery](https://machinelearningmastery.com/)
     - [Data Science Masters](http://datasciencemasters.org/)
     - [Openintro Statistics](https://www.openintro.org/stat/textbook.php)
+    - [GreatLearning](https://www.mygreatlearning.com/ng/)
 
   - Conferences, Communities, summits and Competitions
     - [NIPS Conference](https://nips.cc/)
