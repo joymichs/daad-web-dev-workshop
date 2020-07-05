@@ -264,7 +264,10 @@ a one-week web development workshop teaching how to build a website `from scratc
   - Markdown
     - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-* Data Science
+
+
+
+* Data Science Resources
 
   - Resources
 
@@ -306,8 +309,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Data Science Masters](http://datasciencemasters.org/)
     - [Openintro Statistics](https://www.openintro.org/stat/textbook.php)
     - [GreatLearning](https://www.mygreatlearning.com/ng/)
-
-  - Conferences, Communities, summits and Competitions
     - [NIPS Conference](https://nips.cc/)
     - [Cross Validated](http://stats.stackexchange.com/) 
     - [Datatau](http://www.datatau.com/)
