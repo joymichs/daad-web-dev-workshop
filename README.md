@@ -191,32 +191,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Allyjs.io](https://allyjs.io/)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
 
-* Programming Languages
-
-  - Python
-
-    - [ignani/LearnPython](https://github.com/ignani/LearnPython)
-    - [AndersBallegaard/Python-resources](https://github.com/AndersBallegaard/Python-resources)
-    - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
-    - [vinta/awesome-python](https://github.com/vinta/awesome-python)
-    - [stephenh67/python-resources-2019](https://github.com/stephenh67/python-resources-2019)
-    - [adrianmoisey/learn-python](https://github.com/adrianmoisey/learn-python)
-    - [jorisboeye/python-resources](https://github.com/jorisboeye/python-resources)
-    - [feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
-    - [jareddrayton/Python-Resources](https://github.com/jareddrayton/Python-Resources)
-    - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
-    - [techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
-    - [hakin9](https://hakin9.org/list-of-free-python-resources/)
-    - [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
-    - [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
-    - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
-    - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
-    - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-    - [Learn Python](https://www.computerscienceonline.org/learn-python/)
-    - [Stackify](https://stackify.com/learn-python-tutorials/)
-    - [Hackr](https://hackr.io/tutorials/learn-python)
-    - [Python Resources](https://pythontips.com/python-resources/)
-
 * Frontend
 
   - React
@@ -265,12 +239,31 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-
-
 * Data Science Resources
-
-  - Resources
-
+  - Python
+    - [ignani/LearnPython](https://github.com/ignani/LearnPython)
+    - [AndersBallegaard/Python-resources](https://github.com/AndersBallegaard/Python-resources)
+    - [CodementorIO/Python-Learning-Resources](https://github.com/CodementorIO/Python-Learning-Resources)
+    - [vinta/awesome-python](https://github.com/vinta/awesome-python)
+    - [stephenh67/python-resources-2019](https://github.com/stephenh67/python-resources-2019)
+    - [adrianmoisey/learn-python](https://github.com/adrianmoisey/learn-python)
+    - [jorisboeye/python-resources](https://github.com/jorisboeye/python-resources)
+    - [feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
+    - [jareddrayton/Python-Resources](https://github.com/jareddrayton/Python-Resources)
+    - [quobit/awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
+    - [techqueria/python-learning-resources](https://github.com/techqueria/python-learning-resources)
+    - [hakin9](https://hakin9.org/list-of-free-python-resources/)
+    - [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
+    - [Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
+    - [The HitchHikers Guide to Python](https://docs.python-guide.org/intro/learning/)
+    - [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
+    - [Begineers Guide](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+    - [Learn Python](https://www.computerscienceonline.org/learn-python/)
+    - [Stackify](https://stackify.com/learn-python-tutorials/)
+    - [Hackr](https://hackr.io/tutorials/learn-python)
+    - [Python Resources](https://pythontips.com/python-resources/)
+    
+  - DataScience
     - [Data Elixir](http://dataelixir.com/)
     - [Caltech's Resource](http://work.caltech.edu/telecourse.html)
     - [Dev.to Machine Learning](https://dev.to/t/machinelearning)
