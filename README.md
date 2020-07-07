@@ -225,7 +225,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
     - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
-  - Git and GitHub
+  - Git, GitHub and Markdown
 
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
     - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
@@ -234,8 +234,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
     - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
     - [Github Guides](https://guides.github.com/)
-
-  - Markdown
     - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
