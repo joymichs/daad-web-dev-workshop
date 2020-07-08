@@ -224,9 +224,6 @@ a one-week web development workshop teaching how to build a website `from scratc
   - Tooling
 
     - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
-
-  - Git, GitHub and Markdown
-
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
     - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
     - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
