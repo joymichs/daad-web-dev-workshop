@@ -190,8 +190,44 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [ES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6)
     - [Allyjs.io](https://allyjs.io/)
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
+    - [Sudheerj](https://github.com/sudheerj/javascript-interview-questions)
 
-* Programming Languages
+* Frontend
+
+  - React
+    - [Frontend Masters](https://frontendmasters.com/)
+    - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
+    - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
+    - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
+    - [React Bits](https://github.com/vasanthk/react-bits)
+    - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
+
+* Podcasts:
+
+  - [Freecodecamp](https://freecodecamp.libsyn.com/)
+  - [CodeNewbie](https://www.codenewbie.org/podcast)
+  - [Behind the Tech](https://behindthetech.libsynpro.com/)
+  - [Rework](https://rework.fm/)
+  - [Developer Tea](https://spec.fm/podcasts/developer-tea)
+  - [Full Stack Radio](http://www.fullstackradio.com/)
+  - [Frontend Happy Hour](https://frontendhappyhour.com/)
+  - [Syntax](https://syntax.fm/)
+  - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
+  - [Shop Talk Show](https://shoptalkshow.com/)
+
+* Workflow, Tools and Conceptsss
+
+  - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
+  - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+  - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
+  - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+  - [Git Workflow](http://documentup.com/skwp/git-workflows-book)
+  - [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
+  - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
+  - [Github Guides](https://guides.github.com/)
+  - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+- Data Science Resources
 
   - Python
 
@@ -217,61 +253,12 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Hackr](https://hackr.io/tutorials/learn-python)
     - [Python Resources](https://pythontips.com/python-resources/)
 
-* Frontend
-
-  - React
-    - [Frontend Masters](https://frontendmasters.com/)
-    - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
-    - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
-    - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
-    - [React Bits](https://github.com/vasanthk/react-bits)
-    - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
-
-* Podcasts:
-
-  - [Freecodecamp](https://freecodecamp.libsyn.com/)
-  - [CodeNewbie](https://www.codenewbie.org/podcast)
-  - [Behind the Tech](https://behindthetech.libsynpro.com/)
-  - [Rework](https://rework.fm/)
-  - [Developer Tea](https://spec.fm/podcasts/developer-tea)
-  - [Full Stack Radio](http://www.fullstackradio.com/)
-  - [Frontend Happy Hour](https://frontendhappyhour.com/)
-  - [Syntax](https://syntax.fm/)
-  - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
-  - [Shop Talk Show](https://shoptalkshow.com/)
-
-* Interviews
-
-  - Javascript
-    - [Sudheerj](https://github.com/sudheerj/javascript-interview-questions)
-
-* Workflow, Tools and Concepts
-
-  - Tooling
-
-    - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
-
-  - Git and GitHub
-
-    - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-    - [Introduction to Git](http://cse.unl.edu/~cbourke/gitTutorial.pdf)
-    - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
-    - [Git Workflow](http://documentup.com/skwp/git-workflows-book)
-    - [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)
-    - [Introduction to HTTP by Lauchschool](https://launchschool.com/books/http)
-    - [Github Guides](https://guides.github.com/)
-
-  - Markdown
-    - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-* Data Science
-
-  - Resources
-
+  - DataScience
     - [Data Elixir](http://dataelixir.com/)
     - [Caltech's Resource](http://work.caltech.edu/telecourse.html)
     - [Dev.to Machine Learning](https://dev.to/t/machinelearning)
     - [Dev.to Data Science](https://dev.to/t/datascience)
+    - [Dev.to Python](https://dev.to/t/python)
     - [Knuggets](https://www.kdnuggets.com/2016/03/top-10-data-science-github.html)
     - [Cognitive Class](https://cognitiveclass.ai/learn/data-science)
     - [Awesome Learn Datascience](https://github.com/siboehm/awesome-learn-datascience)
@@ -290,7 +277,6 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [LearnDataSci/free-data-science-learning](https://github.com/LearnDataSci/free-data-science-learning)
     - [Leo-G/Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki)
     - [Elite Data Science](https://elitedatascience.com/data-science-resources)
-    - [Dev.to Python](https://dev.to/t/python)
     - [Udacity Intro to Datascience](https://www.udacity.com/course/intro-to-data-science--ud359)
     - [Datascience Masters](http://datasciencemasters.org/)
     - [Stanford Online](https://online.stanford.edu/lagunita-learning-platform)
@@ -305,8 +291,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Machine Learning Mastery](https://machinelearningmastery.com/)
     - [Data Science Masters](http://datasciencemasters.org/)
     - [Openintro Statistics](https://www.openintro.org/stat/textbook.php)
-
-  - Conferences, Communities, summits and Competitions
+    - [GreatLearning](https://www.mygreatlearning.com/ng/)
     - [NIPS Conference](https://nips.cc/)
     - [Cross Validated](http://stats.stackexchange.com/)
     - [Datatau](http://www.datatau.com/)
