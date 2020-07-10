@@ -308,7 +308,8 @@ a one-week web development workshop teaching how to build a website `from scratc
 
   - Conferences, Communities, summits and Competitions
     - [NIPS Conference](https://nips.cc/)
-    - [Cross Validated](http://stats.stackexchange.com/) 
+    - [Cross Validated](http://stats.stackexchange.com/)
     - [Datatau](http://www.datatau.com/)
     - [Kaggle](https://www.kaggle.com/competitions)
     - [Spark AI](https://sparkaisummit.com/)
+    - [Metaoptimize](http://metaoptimize.com/qa/)
