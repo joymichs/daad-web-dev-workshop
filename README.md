@@ -27,7 +27,9 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Flexbox Game](https://flexboxfroggy.com/)
   - [Understanding Flexbox](https://ohansemmanuel.github.io/uf_download.html)
 
-* More Learning Resources:
+
+
+* Other Learning Resources:
 
   - General:
 
