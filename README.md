@@ -31,7 +31,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 * Other Learning Resources:
 
-  - General:
+  - MOOCS:
 
     - [Freecodecamp](https://learn.freecodecamp.org/)
     - [W3Schools](https://www.w3schools.com/)
