@@ -163,10 +163,9 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 * The Building Blocks of the Web:
 
-  - HTML
+  - HTML and CSS
     - [Dive in to HTML5](http://diveinto.html5doctor.com/)
     - [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html)
-  - CSS
     - [Learn CSS Layout](http://learnlayout.com/)
     - [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
     - [Maintainable CSS](https://maintainablecss.com/)
