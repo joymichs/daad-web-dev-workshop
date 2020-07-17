@@ -283,6 +283,7 @@ a one-week web development workshop teaching how to build a website `from scratc
     - [Simply Statistics](http://simplystatistics.org/)
     - [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
     - [Yhat Blog](http://blog.yhat.com/)
+    - [Analytics India Mag](https://analyticsindiamag.com/top-data-science-learning-resources-on-github-for-beginners-experts/)
     - [R-bloggers](http://www.r-bloggers.com/)
     - [Machine Learning Mastery](https://machinelearningmastery.com/)
     - [Data Science Masters](http://datasciencemasters.org/)
