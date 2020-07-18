@@ -27,7 +27,7 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Flexbox Game](https://flexboxfroggy.com/)
   - [Understanding Flexbox](https://ohansemmanuel.github.io/uf_download.html)
 
-* Other Learning Resources:
+* Online Learning Resources:
 
   - MOOCS:
 
@@ -223,7 +223,7 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Github Guides](https://guides.github.com/)
   - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- Data Science Resources
+- AI Resources
 
   - Python
 
