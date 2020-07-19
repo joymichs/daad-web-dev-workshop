@@ -27,7 +27,7 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Flexbox Game](https://flexboxfroggy.com/)
   - [Understanding Flexbox](https://ohansemmanuel.github.io/uf_download.html)
 
-* Other Learning Resources:
+* Online Learning Resources:
 
   - MOOCS:
 
@@ -143,10 +143,6 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 - Workflow, Tools and Concepts
 
-  - Tooling
-
-    - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
-
   - Git and GitHub
 
     - [Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
@@ -191,12 +187,17 @@ a one-week web development workshop teaching how to build a website `from scratc
 * Frontend
 
   - React
+
     - [Frontend Masters](https://frontendmasters.com/)
     - [React by Tyler Mcginnis](https://tylermcginnis.com/courses/react/)
     - [Pure React by David Ceddia](https://daveceddia.com/pure-react/)
     - [The React Handbook by Flavio Copes](https://flaviocopes.com/page/react-handbook/)
     - [React Bits](https://github.com/vasanthk/react-bits)
     - [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
+
+  - Tooling
+
+    - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
 * Podcasts:
 
@@ -223,7 +224,7 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Github Guides](https://guides.github.com/)
   - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-- Data Science Resources
+- AI Resources
 
   - Python
 
