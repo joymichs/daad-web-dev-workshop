@@ -4,7 +4,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 ### Resources
 
-- Final Website Built to Showcase at the Workshop: http://profuse-sort.surge.sh/
+- Final Website Built for the Workshop: http://profuse-sort.surge.sh/
 
 - Branches:
 
