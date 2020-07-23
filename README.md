@@ -136,10 +136,8 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [This Week in Tech](https://twit.tv/shows/this-week-in-tech)
   - [Shop Talk Show](https://shoptalkshow.com/)
 
-- Interviews
-
-  - Javascript
-    - [Sudheerj](https://github.com/sudheerj/javascript-interview-questions)
+- Javascript Interviews
+  - [Sudheerj](https://github.com/sudheerj/javascript-interview-questions)
 
 - Workflow, Tools and Concepts
 
