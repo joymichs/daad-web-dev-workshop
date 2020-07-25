@@ -21,7 +21,6 @@ a one-week web development workshop teaching how to build a website `from scratc
 - [Slide Deck](https://noti.st/joymichs/gavEOm/starting-web-development#sAD7QjG)
 
 - Diagrams:
-
   - [CSS - Colors](https://drive.google.com/file/d/1IeFSxZJo9sGU0iKyZv2pGb0raGysrqbY/view?usp=sharing)
   - [CSS - Box Model](https://drive.google.com/file/d/1yckxAO176tWc9J7qRsQo4SMXz6uBcThJ/view?usp=sharing)
   - [CSS - Block vs Inline Elements](https://drive.google.com/file/d/1S_Wm1AvpVEROQBooWFwVXdvajkNmhUYj/view?usp=sharing)
