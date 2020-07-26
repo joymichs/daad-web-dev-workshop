@@ -6,7 +6,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 - Final Website Built for the Workshop: http://profuse-sort.surge.sh/
 
-- Branches:
+- Feature Branches:
 
   - [html](https://github.com/joymichs/daad-web-dev-workshop/tree/html)
   - [css](https://github.com/joymichs/daad-web-dev-workshop/tree/css)
