@@ -6,6 +6,8 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 - Website Built: http://profuse-sort.surge.sh/
 
+- [Slide Deck](https://noti.st/joymichs/gavEOm/starting-web-development#sAD7QjG)
+
 - Feature Branches:
 
   - [html](https://github.com/joymichs/daad-web-dev-workshop/tree/html)
@@ -18,8 +20,6 @@ a one-week web development workshop teaching how to build a website `from scratc
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Flexbox Game](https://flexboxfroggy.com/)
   - [Understanding Flexbox](https://ohansemmanuel.github.io/uf_download.html)
-
-- [Slide Deck](https://noti.st/joymichs/gavEOm/starting-web-development#sAD7QjG)
 
 - Diagrams:
 
