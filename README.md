@@ -245,7 +245,6 @@ a one-week web development workshop teaching students how to build a website `fr
     - [Learn Python](https://www.computerscienceonline.org/learn-python/)
     - [Stackify](https://stackify.com/learn-python-tutorials/)
     - [Hackr](https://hackr.io/tutorials/learn-python)
-    - [Python Resources](https://pythontips.com/python-resources/)
 
   - DataScience
     - [Data Elixir](http://dataelixir.com/)
