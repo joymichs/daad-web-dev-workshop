@@ -4,7 +4,7 @@ a one-week web development workshop teaching how to build a website `from scratc
 
 ### Resources
 
-- Website Built: http://profuse-sort.surge.sh/
+- Website Built: http://waiting-loss.surge.sh/
 
 - Feature Branches:
 
